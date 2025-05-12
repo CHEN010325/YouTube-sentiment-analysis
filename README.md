@@ -3,7 +3,7 @@
 This repository contains code for performing sentiment analysis on YouTube comments using a BERT-based model.
 
 👉 **GitHub Repository**: [https://github.com/CHEN010325/YouTube-sentiment-analysis](https://github.com/CHEN010325/YouTube-sentiment-analysis)
-
+If you have any questions, email sl695969@outlook.com
 ---
 
 ## 📦 Dependencies
