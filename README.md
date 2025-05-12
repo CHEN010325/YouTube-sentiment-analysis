@@ -1,4 +1,4 @@
-# YouTube-sentiment-analysis
+# YouTube Sentiment Analysis
 
 This repository contains code for performing sentiment analysis on YouTube comments using a BERT-based model.
 
@@ -27,10 +27,10 @@ See `requirements.txt` for full installation details.
 > ✅ To **fully reproduce** the results:
 >
 > - Use the **exact versions** listed above  
-> - Use **Python seed = 42** (already set in the code)  
-> - Ensure **consistent hardware environment (e.g. CUDA version)**
+> - Use **random seed = 42** (already set in the code)  
+> - Ensure a compatible **hardware and CUDA environment**
 
-Random seed setup in code:
+### 🔒 Fixed random seed:
 
 ```python
 import random
